@@ -1,1 +1,7 @@
 git checkout -b [branch name] origin/[branch name]
+
+git remote add origin ssh://git@github.com/[username]/[repository-name].git
+
+git remote set-url origin ssh://git@github.com/[username]/[repository-name].git
+
+

@@ -1,3 +1,6 @@
+# I added a line successfully!
+# Huraaay)
+
 mkdir $1
 cd $1
 
